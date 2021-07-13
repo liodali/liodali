@@ -5,7 +5,7 @@ val MohamedAliHamza = Mobile developer {
     about {
         name = "Mohamed ali Hamza"
         company = Nerium Software
-        role = Flutter Developer
+        role = Android/Flutter Developer
     }
     tech("Flutter", "Kotlin/Java")
     links {
