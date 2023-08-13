@@ -1,5 +1,5 @@
 # <center>I'm Mohamed ali Hamza</center>
-![pub](https://img.shields.io/badge/age-28-green) ![pub](https://img.shields.io/badge/country-Tunisia-red)
+![pub](https://img.shields.io/badge/age-30-green) ![pub](https://img.shields.io/badge/country-Tunisia-red)
 ```flutter
 val MohamedAliHamza = Mobile developer {
     about {
@@ -7,7 +7,7 @@ val MohamedAliHamza = Mobile developer {
         company = Nerium Software
         role = Android/Flutter Developer
     }
-    tech("Flutter", "Kotlin/Java")
+    tech("Flutter", "Kotlin/Dart/Rust")
     links {
         twitter = "@medalihamza93"
     }
