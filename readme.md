@@ -8,8 +8,6 @@ val MohamedAliHamza = Mobile developer {
         role = Android/Flutter Developer
     }
     tech("Flutter", "Kotlin/Dart/Rust")
-    links {
-        twitter = "@medalihamza93"
-    }
+    
 }
 ```
