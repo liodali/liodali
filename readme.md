@@ -4,7 +4,7 @@
 val MohamedAliHamza = Mobile developer {
     about {
         name = "Mohamed ali Hamza"
-        company = Livv Gmbh
+        company = Bloomwell Gmbh
         role = Software Engineer
     }
     tech("Flutter/Android/iOS", "Kotlin/Dart/Rust/Swift")
